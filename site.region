@@ -9,7 +9,6 @@
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
   
-  <p>Hello, World!</p>
 
     <div class="site-container">
 
@@ -24,6 +23,9 @@
           </h1>
         {.end}
       </header>
+      
+            
+        <p>Hello, WORLD! </p>
 
       <!-- cms content injection point -->
       <main class="content-container" role="main" data-content-field="main-content">
