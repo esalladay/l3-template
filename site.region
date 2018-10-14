@@ -8,6 +8,8 @@
     {squarespace-headers}
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
+  
+  <p>Hello, World!</p>
 
     <div class="site-container">
 
